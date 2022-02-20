@@ -1,5 +1,5 @@
 body {
-  background-image: url(/img/bg-clock.jpg);
+  background-image: url("bg-clock.jpg");
   background-size:1366px;
   background-repeat: no-repeat;
 }
